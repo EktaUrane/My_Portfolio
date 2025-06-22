@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ekta-portfolio/static/css/main.30ff58ca.css",
+    "main.js": "/ekta-portfolio/static/js/main.fcc1e6ab.js",
+    "static/js/453.789b9e3f.chunk.js": "/ekta-portfolio/static/js/453.789b9e3f.chunk.js",
+    "index.html": "/ekta-portfolio/index.html",
+    "main.30ff58ca.css.map": "/ekta-portfolio/static/css/main.30ff58ca.css.map",
+    "main.fcc1e6ab.js.map": "/ekta-portfolio/static/js/main.fcc1e6ab.js.map",
+    "453.789b9e3f.chunk.js.map": "/ekta-portfolio/static/js/453.789b9e3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30ff58ca.css",
+    "static/js/main.fcc1e6ab.js"
+  ]
+}
