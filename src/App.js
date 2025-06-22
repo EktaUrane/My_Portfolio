@@ -21,7 +21,7 @@ import {
 } from 'lucide-react';
 
 const Portfolio = () => {
-  const [activeSection, setActiveSection] = useState('hero');
+  // const [activeSection, setActiveSection] = useState('hero');
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [scrollY, setScrollY] = useState(0);
 
@@ -77,7 +77,7 @@ const Portfolio = () => {
         "20% latency optimization through connection pooling",
         "Efficient query handling and message storage"
       ],
-      link: "#"
+      link: "https://github.com/EktaUrane/real-time-chat-application"
     },
     {
       title: "AI-Powered Resume Analyzer", 
@@ -88,7 +88,7 @@ const Portfolio = () => {
         "40% improvement in feedback speed",
         "Modern, intuitive user interface"
       ],
-      link: "#"
+      link: "https://github.com/EktaUrane/ai-resume-analyzer"
     },
     {
       title: "Object Detection Machine",
@@ -99,7 +99,6 @@ const Portfolio = () => {
         "30% reduction in false positives", 
         "35% increase in system reliability"
       ],
-      link: "#"
     }
   ];
 
