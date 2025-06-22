@@ -20,7 +20,7 @@ import {
   X
 } from 'lucide-react';
 
-const Portfolio = () => {
+const App = () => {
   // const [activeSection, setActiveSection] = useState('hero');
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [scrollY, setScrollY] = useState(0);
@@ -491,4 +491,4 @@ const Portfolio = () => {
   );
 };
 
-export default Portfolio;
+export default App;
